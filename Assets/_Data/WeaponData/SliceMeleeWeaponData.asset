@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80b249a3aae1744d2a7686de2948ed12, type: 3}
+  m_Name: SliceMeleeWeaponData
+  m_EditorClassIdentifier: 
+  <Damage>k__BackingField: 1
+  <WeaponDelay>k__BackingField: 1
+  <ImpactObstaclePrefab>k__BackingField: {fileID: 3795742014449876867, guid: 1980883f45cdc4516ba6864a51cc3676, type: 3}
+  <ImpactEnemyPrefab>k__BackingField: {fileID: 5347940180540743161, guid: caeb4c9a984d74b0fa014855b3a5af39, type: 3}
+  <KnockBackPower>k__BackingField: 5
+  <KnockBackDelay>k__BackingField: 0.1
+  <meleeAttackPrefab>k__BackingField: {fileID: 6544102868092390019, guid: 075e9b6b3ed704e3fbfd77321e34de7b, type: 3}
